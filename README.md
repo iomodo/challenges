@@ -11,3 +11,5 @@ This repo will provide solutions to some algorithm challenges. Problems are tagg
 2. [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/GreedyAlgorithms/Luck%20Balance.py) - `easy`
 
 3. [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/GreedyAlgorithms/Greedy%20Florist.py) - `easy`
+
+4. [Max Min](https://www.hackerrank.com/challenges/angry-children) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/GreedyAlgorithms/Max%20Min.py) - `easy`
