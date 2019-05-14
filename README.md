@@ -15,3 +15,7 @@ This repo will provide solutions to some algorithm challenges. Problems are tagg
 4. [Max Min](https://www.hackerrank.com/challenges/angry-children) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/GreedyAlgorithms/Max%20Min.py) - `easy`
 
 5. [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/GreedyAlgorithms/Reverse%20Shuffle%20Merge.py) - `hard`
+
+
+### Search
+1. [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/Search/Hash%20Tables:%20Ice%20Cream%20Parlor.py) - `medium`
