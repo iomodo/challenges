@@ -21,3 +21,5 @@ This repo will provide solutions to some algorithm challenges. Problems are tagg
 1. [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/Search/Hash%20Tables:%20Ice%20Cream%20Parlor.py) - `medium`
 
 2. [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/Search/Swap%20Nodes%20%5BAlgo%5D.py) - `medium`
+
+3. [Pairs](https://www.hackerrank.com/challenges/pairs) - [solution](https://github.com/iomodo/challenges/blob/master/HackerRank/Search/Pairs.py) - `easy`
